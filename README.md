@@ -1,0 +1,2 @@
+# GongBuWenDuSi
+一个用于将Kdenlive草稿视频进行语音转字幕的插件
